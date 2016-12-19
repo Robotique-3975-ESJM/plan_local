@@ -18,6 +18,15 @@ Design du local robotique de l'équipe 3975 de l'Ecole Secondaire Jeanne-Mance
   * Entrer le lien vers le dépôt:
     * https://github.com/Robotique-3975-ESJM/plan_local.git
 	
+## Obtenir l'accès à un dépôt
+
+1. S'inscire au GitHub
+  * https://github.com/login
+1. Demander à l'administrateur du projet pour avoir le droit d'écriture
+	
 ## Guide d'utilisation de TortoiseGit
 
 * https://tortoisegit.org/docs/tortoisegit/
+
+
+@smchan514
