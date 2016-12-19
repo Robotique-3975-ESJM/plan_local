@@ -1,6 +1,9 @@
 # Dépôt `plan_local`
 Design du local robotique de l'équipe 3975 de l'Ecole Secondaire Jeanne-Mance
 
+Le design est fait avec le logiciel SketchUp Make 2017:
+  * http://www.sketchup.com/download?sketchup=make
+
 ## Objectifs
 1. Permettre de visualiser différentes options d'aménagement du local
 2. Permettre d'archiver le plan du local pour référence future
