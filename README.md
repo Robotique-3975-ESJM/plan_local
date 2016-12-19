@@ -23,10 +23,9 @@ Design du local robotique de l'équipe 3975 de l'Ecole Secondaire Jeanne-Mance
 1. S'inscire au GitHub
   * https://github.com/login
 1. Demander à l'administrateur du projet pour avoir le droit d'écriture
+  * Administrateur: @smchan514
 	
 ## Guide d'utilisation de TortoiseGit
 
 * https://tortoisegit.org/docs/tortoisegit/
 
-
-Administrateur: @smchan514
