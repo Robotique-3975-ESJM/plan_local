@@ -12,6 +12,7 @@ Design du local robotique de l'équipe 3975 de l'Ecole Secondaire Jeanne-Mance
 1. Télécharger et installer __Git for Windows__
   * https://git-for-windows.github.io/
 1. Télécharger un __clone__ du dépôt
+  * S'assurer d'avoir accès nécessaire au dépôt cible
   * Dans __Windows Explorer__, naviguer dans un répertoire de travail.
   * Clique droit sur le dossier et choisir __Git clone...__
   * Entrer le lien vers le dépôt:
