@@ -27,6 +27,3 @@ Design du local robotique de l'équipe 3975 de l'Ecole Secondaire Jeanne-Mance
 ## Guide d'utilisation de TortoiseGit
 
 * https://tortoisegit.org/docs/tortoisegit/
-
-
-@smchan514
