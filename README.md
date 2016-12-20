@@ -6,7 +6,7 @@ Le design est fait avec le logiciel SketchUp Make 2017:
 
 ## Objectifs
 1. Permettre de visualiser différentes options d'aménagement du local
-2. Permettre d'archiver le plan du local pour référence future
+2. Permettre d'initier les élèves à la modélisation 3D
 
 ## Guide d'installation d'un client Git
 
