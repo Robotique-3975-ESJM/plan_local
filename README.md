@@ -20,5 +20,5 @@ Le design est fait avec le logiciel __SketchUp Make 2017__:
 ## Les guides pratiques
 
 * [Comment installer un client Git](https://github.com/Robotique-3975-ESJM/plan_local/wiki#Client_Git)
-* [Comment utiliser TortoiseGit](https://github.com/Robotique-3975-ESJM/plan_local/wiki#utiliser_git_avec_tortoisegit)
+* [Comment utiliser TortoiseGit](https://github.com/Robotique-3975-ESJM/plan_local/wiki#Utiliser_Git_avec_TortoiseGit)
 * [Comment utiliser Git sur la ligne de commande](https://github.com/Robotique-3975-ESJM/plan_local/wiki#Utiliser_Git_sur_la_ligne_de_commande)
